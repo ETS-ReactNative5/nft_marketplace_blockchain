@@ -10,7 +10,7 @@ __generated__
 logs
 
 # Dependency directories
-node_modules/
+/node_modules/
 jspm_packages/
 
 #vscode
